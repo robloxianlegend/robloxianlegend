@@ -1,7 +1,9 @@
-my discord is @gatorkeys
+@gatorkeys
 ------------
-https://phans.bio/1
+JS - 2 Years
 
-i know: js, css, luau
+LUA - 2 Years
 
-i make: roblox games (quitted), discord bots, 3d game sites
+Python - 3 Months
+
+Javascript - 5 Months
