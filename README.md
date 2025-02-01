@@ -8,4 +8,4 @@ bio  $  https://phans.bio/@1
 ```
 &zwnj; 
 &zwnj; 
-![](https://komarev.com/ghpvc/?username=hris69)
+![](https://ihateniggers.pages.dev/views/robloxianlegend)
