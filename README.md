@@ -6,6 +6,12 @@
 dc   $  @gatorkeys
 bio  $  https://phans.bio/@1
 ```
+
+```csharp
+hobbies
+i make site games, discord bots and
+opensource tools
+```
 &zwnj; 
 &zwnj; 
 ![](https://ihateniggers.pages.dev/views/robloxianlegend)
