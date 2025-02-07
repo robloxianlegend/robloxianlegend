@@ -10,7 +10,7 @@ bio  $  https://phans.bio/@1
 ```csharp
 hobbies
 i make site games, discord bots and
-opensource tools
+opensource shit
 ```
 &zwnj; 
 &zwnj; 
